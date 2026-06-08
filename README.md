@@ -54,44 +54,16 @@ Currently pursuing **B.Tech Information Technology at ABES Engineering College (
 
 ---
 
-## 💡 Engineering Interests
+## 🛠 Stack
 
-I enjoy building software that solves real-world problems and delivers measurable value.
-
-My primary interests include:
-
-* Full Stack Development
-* SaaS Product Development
-* Backend Engineering
-* API Design & Optimization
-* Cloud Infrastructure
-* DevOps & Automation
-* System Design
-
----
-
-## 📚 Currently Learning
-
-* Advanced React.js
-* Docker & Containerization
-* CI/CD Pipelines
-* AWS Fundamentals
-* Linux Administration
-* System Design
-* Data Structures & Algorithms
-
----
-
-## 🛠 Tech Stack
-
-| Category    | Technologies                                    |
-| ----------- | ----------------------------------------------- |
-| Frontend    | React.js, JavaScript, HTML5, CSS3, Tailwind CSS |
-| Backend     | Node.js, Express.js                             |
-| Database    | MongoDB, MySQL                                  |
-| Programming | JavaScript, Java                                |
-| DevOps      | Git, GitHub, Linux, Docker                      |
-| Tools       | VS Code, Postman, MongoDB Compass               |
+|                 |                                                 |
+| --------------- | ----------------------------------------------- |
+| **Frontend**    | React.js, JavaScript, HTML5, CSS3, Tailwind CSS |
+| **Backend**     | Node.js, Express.js                             |
+| **Database**    | MongoDB, MySQL                                  |
+| **Programming** | JavaScript, Java                                |
+| **DevOps**      | Git, GitHub, Linux, Docker                      |
+| **Tools**       | VS Code, Postman, MongoDB Compass               |
 
 ---
 
@@ -110,7 +82,7 @@ My primary interests include:
 
 ## 🎯 2026 Goals
 
-* Build 5+ production-grade MERN applications
+* Build production-grade MERN applications
 * Master Backend Development
 * Learn Docker, Kubernetes & AWS
 * Contribute to Open Source
@@ -124,25 +96,10 @@ My primary interests include:
 * Cisco Networking (CCNA Coursework)
 * Computer Networks
 * MERN Stack Development
-* Data Structures & Algorithms
-* DevOps Fundamentals (In Progress)
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **[suryaprakash8707yadav@gmail.com](mailto:suryaprakash8707yadav@gmail.com)**
-
-💼 LinkedIn:
-https://www.linkedin.com/in/surya-prakash-yadav-163828253
-
-🐙 GitHub:
-https://github.com/Surya-4785
+* DevOps Fundamentals
 
 ---
 
 <div align="center">
-
-### ⭐ Code • Learn • Build • Repeat
-
+  <sub>B.Tech Information Technology @ ABES Engineering College (2023–2027) · Open to internships & collaboration · <a href="mailto:suryaprakash8707yadav@gmail.com">suryaprakash8707yadav@gmail.com</a></sub>
 </div>

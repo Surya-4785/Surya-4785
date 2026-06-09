@@ -66,16 +66,16 @@ Currently pursuing **B.Tech Information Technology at ABES Engineering College (
 | **Tools**       | VS Code, Postman, MongoDB Compass               |
 
 ---
-
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Surya-4785&show_icons=true&theme=github_dark&cache_seconds=1800" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-4785&layout=compact&theme=github_dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Surya-4785&theme=github-dark" />
 </p>
-
 ---
 
 ## 🎯 2026 Goals
